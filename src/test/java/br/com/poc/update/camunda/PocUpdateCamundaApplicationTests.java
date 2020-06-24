@@ -1,4 +1,4 @@
-package br.com.poc.update.camunda.demo;
+package br.com.poc.update.camunda;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

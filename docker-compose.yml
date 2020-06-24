@@ -1,0 +1,10 @@
+version: '2'
+services:
+  poc-update-camunda:
+    image: postgres:9.6
+    environment:
+      - POSTGRES_DB=poc-update-camunda
+      - POSTGRES_USER=poc-update-camunda
+      - POSTGRES_PASSWORD=poc-update-camunda
+    ports:
+    - "5432:5432"

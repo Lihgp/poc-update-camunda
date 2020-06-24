@@ -1,4 +1,4 @@
-package br.com.poc.update.camunda.demo;
+package br.com.poc.update.camunda;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
